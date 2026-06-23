@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MrLazyC0der&label=Profile+Views&color=0A84FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=big-abdallah&label=Profile+Views&color=0A84FF&style=flat-square" />
 
 </div>
 
@@ -85,10 +85,10 @@ const abdallah = {
 
 | Project | Description | Tech |
 |---|---|---|
-| [EduTrack Pro](https://github.com/MrLazyC0der/EduTrack-Pro---Student-Management-System) | Student Management System | HTML, CSS, JS |
-| [Weather Dashboard](https://github.com/MrLazyC0der/Weather_Dashboard) | Real-time weather via API | JavaScript |
+| [EduTrack Pro](https://github.com/big-abdallah/EduTrack-Pro---Student-Management-System) | Student Management System | HTML, CSS, JS |
+| [Weather Dashboard](https://github.com/big-abdallah/Weather_Dashboard) | Real-time weather via API | JavaScript |
 | [AppNote](https://github.com/MrLazyC0der/AppNote) | Note-taking app | JavaScript |
-| [Gauss-Jordan Solver](https://github.com/MrLazyC0der/Linear-Equation-Solver---Gauss-Jordan-Method) | Linear equations solver | C# |
+| [Gauss-Jordan Solver](https://github.com/big-abdallah/Linear-Equation-Solver---Gauss-Jordan-Method) | Linear equations solver | C# |
 
 ---
 
@@ -96,13 +96,13 @@ const abdallah = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrLazyC0der&show_icons=true&hide_border=true&bg_color=F5F5F0&title_color=0A84FF&icon_color=0A84FF&text_color=1C1C1E&ring_color=0A84FF" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLazyC0der&layout=compact&hide_border=true&bg_color=F5F5F0&title_color=0A84FF&text_color=1C1C1E" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=big-abdallah&show_icons=true&hide_border=true&bg_color=F5F5F0&title_color=0A84FF&icon_color=0A84FF&text_color=1C1C1E&ring_color=0A84FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=big-abdallah&layout=compact&hide_border=true&bg_color=F5F5F0&title_color=0A84FF&text_color=1C1C1E" height="170"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrLazyC0der&hide_border=true&background=F5F5F0&stroke=0A84FF&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF&sideLabels=1C1C1E&dates=1C1C1E&currStreakNum=1C1C1E&sideNums=1C1C1E"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=big-abdallah&hide_border=true&background=F5F5F0&stroke=0A84FF&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF&sideLabels=1C1C1E&dates=1C1C1E&currStreakNum=1C1C1E&sideNums=1C1C1E"/>
 </div>
 
 ---
