@@ -114,7 +114,7 @@ const abdallah = {
 [![Email](https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=apple&logoColor=0A84FF)](mailto:swe.abdallah.m@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1C1E?style=for-the-badge&logo=linkedin&logoColor=0A84FF)](https://www.linkedin.com/in/engabdallahmohamed/)
 [![YouTube](https://img.shields.io/badge/YouTube-1C1C1E?style=for-the-badge&logo=youtube&logoColor=0A84FF)](https://youtube.com/@Big-Abdallah)
-[![Instagram](https://img.shields.io/badge/Instagram-1C1C1E?style=for-the-badge&logo=instagram&logoColor=0A84FF)](https://instagram.com/big.abdallah)
+[![Instagram](https://img.shields.io/badge/Instagram-1C1C1E?style=for-the-badge&logo=instagram&logoColor=0A84FF)](https://instagram.com/big_abd_allah)
 
 </div>
 
